@@ -292,6 +292,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Hydra](https://eprint.iacr.org/2020/299.pdf)
 - Chronos
 - Crypsinous
+- [Fast Track Reference on OUROBOROS | POW | POS | BLOCK| EPOCH (Greek Translation)](https://www.youtube.com/watch?v=qF60FNs_4nU&ab_channel=%5BSapio%5DPoolGreekCardanoCommunity)
 
 ## Project Catalyst Startups ##
 - [Liqwid: Cardano DeFi Lending Markets](https://www.liqwid.finance/)
@@ -460,6 +461,7 @@ Tools to help you build on Cardano:
 ### 📹 Community Videos 📹 ###
 - [Cardano: The Revolution](https://www.youtube.com/watch?v=XKYorEgMVVo)
 - [Ladies of Cardano](https://www.youtube.com/watch?v=SPDsu9PqTmg)
+- [CardanoAfrica Vision | The Next global powerhouse](https://www.youtube.com/watch?v=-zvrNjnwKw0&ab_channel=%5BSapio%5DPoolGreekCardanoCommunity)
 
 ### 👛 Wallet Resources 👛 ###
 - [Yoroi wallet primer](https://emurgo.io/blog/yoroi-wallet-primer-an-official-emurgo-guideto-withdrawing-your-cardano-ada-rewards)
@@ -511,3 +513,4 @@ Here is a list of active stake pools:
 - [VINCE](https://vincepool.com/)
 - [ZOE POOL](https://zoepool.com)
 - [PMLX](https://stakespool.io)
+- [SAPIOPOOL](https://sapiopool.com/)
